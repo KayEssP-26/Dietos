@@ -1,0 +1,601 @@
+User_ID,User_Diet,Recipe_ID,Recipe_Name,Recipe_Diet,Interaction_Sequence,Interaction_Type,Number_of_Views,Ingredients_Viewed,Cooked_Status,Time_Spent(mints),Explicit_Rating,Interaction_Weight,Views_Weight,Time_Weight,Implicit_Rating,Final_Rating
+1,Vegetarian,129,Dahi Wale Aloo Recipe (Indian Yogurt-based Potato Curry),Vegetarian,Viewed->Cooked,Cooked,4,1,1,20,3.0,1.2,0.32,0.6,2.828584445184172,3.0
+1,Vegetarian,2,Spicy Tomato Rice (Recipe),Vegetarian,Viewed->Liked,Liked,7,1,0,35,,0.7,0.56,1.05,3.208533543063585,3.21
+1,Vegetarian,186,Aam Panna Pani Puri Recipe,Vegetarian,Viewed,Viewed,7,0,0,35,,0.0,0.56,1.05,1.8531323342308341,1.85
+1,Vegetarian,170,Stuffed Arbi Paratha Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.480783181917528,4.0
+1,Vegetarian,359,Mishti Doi Recipe - Traditional Bengali Sweet Yogurt,Vegetarian,Viewed->Liked->Saved,Saved,1,1,0,5,3.0,0.9,0.08,0.15,1.7090255862997867,3.0
+1,Vegetarian,38,Paneer Tikka Saddle Roll Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,,1.7,0.32,0.6,3.136631184526664,3.14
+1,Vegetarian,50,Dubuk Vade Recipe - Khandeshi Gram Flour Dumpling Curry,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.5430298520494583,3.0
+1,Vegetarian,9,Spicy Crunchy Masala Idli Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,8,1,1,40,5.0,1.4,0.64,1.2,4.073377886842464,5.0
+1,Vegetarian,196,Baked Potato-Spaghetti Rolls Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,4,1,1,20,5.0,1.4,0.32,0.6,3.004019889715654,5.0
+1,Vegetarian,369,Karnataka Special Huli Tovve Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,9,1,1,45,3.0,1.4,0.72,1.3499999999999999,4.10741729256497,3.0
+3,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,8,1,1,40,5.0,1.7,0.64,1.2,4.1888990267801,5.0
+3,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Cooked,Cooked,7,1,1,35,5.0,1.2,0.56,1.05,4.043179248063557,5.0
+3,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,5.0,1.2,0.08,0.15,2.0971712532047455,5.0
+3,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,3.0,1.7,0.08,0.15,2.9112889236194186,3.0
+3,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,1.8582595439797962,4.0
+3,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Liked->Saved,Saved,2,1,0,10,3.0,0.9,0.16,0.3,1.9824474299607329,3.0
+3,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,3.1116480869498337,3.0
+3,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.580082548843053,3.0
+3,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,3.0,0.7,0.16,0.3,2.062459247737097,3.0
+3,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.06836903305759,4.0
+4,Vegetarian,152,Bael Ka Sharbat Recipe - Wood Apple Squash Drink,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.5861111206328684,4.0
+4,Vegetarian,213,Till Wale Aloo Recipe - Sesame Potato Sabzi,Vegetarian,Viewed->Liked->Saved,Saved,4,1,0,20,5.0,0.9,0.32,0.6,2.6767257539208877,5.0
+4,Vegetarian,189,Basella Fritters Recipe - Malabar Spinach Fritters,Vegetarian,Viewed->Cooked,Cooked,6,1,1,30,5.0,1.2,0.48,0.8999999999999999,3.108498211959846,5.0
+4,Vegetarian,450,Goan Style Banana Halwa Recipe (Kelyacho Halwo),Vegetarian,Viewed->Liked->Saved,Saved,18,1,0,90,4.0,0.9,1.44,2.5,5.759831942012638,4.0
+4,Vegetarian,244,Lacha Onion Recipe - Masala Pickled Onions,Vegetarian,Viewed->Saved,Saved,5,1,0,25,3.0,0.6,0.4,0.75,2.373157486608599,3.0
+4,Vegetarian,512,Aamras Ki Kadhi Recipe - Mango Kadhi Recipe,Vegetarian,Viewed->Liked,Liked,2,1,0,10,5.0,0.7,0.16,0.3,1.8410235036823326,5.0
+4,Vegetarian,270,Thulli Recipe (Broken Wheat Halwa),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,5.0,1.7,0.16,0.3,2.9336273466659977,5.0
+4,Vegetarian,452,Chole Capsicum Masala Recipe - Chole Capsicum Masala Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.2480445455298907,5.0
+4,Vegetarian,253,Rajasthani Gatte Ki Sabzi Recipe With Onion & Garlic,Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,4.0,0.9,0.16,0.3,2.263423223612926,4.0
+4,Vegetarian,398,Karnataka Style Gasagase Payasa Recipe- Poppy seed Payasam,Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,3.0,1.2,0.16,0.3,2.4044848641040217,3.0
+5,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,,0.9,0.08,0.15,1.4335532304665923,1.43
+5,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.3523209252103856,0.35
+5,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,,1.2,0.24,0.44999999999999996,2.514800030496373,2.51
+5,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.107843865200094,3.0
+5,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,5.0,0.7,0.16,0.3,1.7759656424656343,5.0
+5,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Saved,Saved,1,1,0,5,3.0,0.6,0.08,0.15,1.731082678087784,3.0
+5,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Liked->Saved,Saved,3,1,0,15,,0.9,0.24,0.44999999999999996,2.149846444353244,2.15
+5,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,4.0,1.7,0.24,0.44999999999999996,3.438420117593548,4.0
+5,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,8,1,1,40,5.0,1.4,0.64,1.2,3.8542923404860634,5.0
+5,Non Vegeterian,408,Chicken With Mushroom Sauce Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,7,1,1,35,5.0,1.4,0.56,1.05,3.8245274987989806,5.0
+7,Non Vegeterian,408,Chicken With Mushroom Sauce Recipe,Non Vegeterian,Viewed->Cooked,Cooked,7,1,1,35,4.0,1.2,0.56,1.05,3.1370676492005627,4.0
+7,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,9,1,1,45,4.0,1.7,0.72,1.3499999999999999,4.6962312243413535,4.0
+7,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,8,1,1,40,5.0,1.4,0.64,1.2,4.10407491873712,5.0
+7,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.4399669138467187,0.44
+7,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,4.0,0.7,0.32,0.6,2.350362557862908,4.0
+7,Non Vegeterian,66,Spicy Lemon Chicken Kebab Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,3.0,0.7,0.08,0.15,2.0995329316449927,3.0
+7,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Saved,Saved,5,1,0,25,5.0,0.6,0.4,0.75,2.732935877817594,5.0
+7,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.4753900025110194,5.0
+7,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,4,1,0,20,3.0,0.9,0.32,0.6,2.6551450901281193,3.0
+7,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.9201673940705678,0.92
+8,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,4.0,1.7,0.24,0.44999999999999996,3.7692553724678772,4.0
+8,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Saved,Saved,1,1,0,5,5.0,0.6,0.08,0.15,1.2504194403593991,5.0
+8,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked,Liked,1,1,0,5,5.0,0.7,0.08,0.15,1.5742593937342166,5.0
+8,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Cooked,Cooked,3,1,1,15,4.0,1.2,0.24,0.44999999999999996,2.934346982684676,4.0
+8,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,5.0,1.7,0.32,0.6,3.3263417659371735,5.0
+8,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,4,1,1,20,5.0,1.4,0.32,0.6,3.2875951399668066,5.0
+8,Eggetarian,439,Strawberry Chocolate Loaf Cake Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,3.0,1.7,0.16,0.3,3.137961993318653,3.0
+8,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.8258368645144527,5.0
+8,Eggetarian,404,Bavarian Mushroom Sauce Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,7,1,1,35,3.0,1.4,0.56,1.05,3.894256256712795,3.0
+8,Eggetarian,393,Microwaved Egg-Omelette-In-A-Mug Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,4.0,1.4,0.16,0.3,2.846582905030384,4.0
+10,Non Vegeterian,408,Chicken With Mushroom Sauce Recipe,Non Vegeterian,Viewed->Cooked,Cooked,8,1,1,40,4.0,1.2,0.64,1.2,3.8169377613143105,4.0
+10,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,,0.9,0.08,0.15,1.5055264034879055,1.51
+10,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Saved,Saved,7,1,0,35,5.0,0.6,0.56,1.05,3.019960430170465,5.0
+10,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Saved,Saved,3,1,0,15,4.0,0.6,0.24,0.44999999999999996,1.932717095385248,4.0
+10,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Saved,Saved,5,1,0,25,3.0,0.6,0.4,0.75,2.5598851863300447,3.0
+10,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked,Liked,17,1,0,85,4.0,0.7,1.36,2.5,5.423798187893503,4.0
+10,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,,0.9,0.08,0.15,1.9480815899056168,1.95
+10,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,13,1,0,65,5.0,0.9,1.04,1.95,4.763105090390831,5.0
+10,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked->Saved,Saved,12,1,0,60,,0.9,0.96,1.7999999999999998,4.996522565947771,5.0
+10,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,3.0,1.7,0.4,0.75,3.340440509207764,3.0
+11,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Saved,Saved,2,1,0,10,3.0,0.6,0.16,0.3,1.8988058904490202,3.0
+11,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,1.0523082819343026,1.05
+11,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,4.0,0.7,0.08,0.15,1.686818937663847,4.0
+11,Non Vegeterian,136,Crispy Chicken Dumplings Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.5867898793967443,5.0
+11,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Cooked,Cooked,11,1,1,55,,1.2,0.88,1.65,4.5034373999922215,4.5
+11,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,4.0,0.7,0.08,0.15,1.7672156872613385,4.0
+11,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Saved->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,2.859022939975708,4.0
+11,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Saved,Saved,1,1,0,5,4.0,0.6,0.08,0.15,1.473727315156287,4.0
+11,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked->Cooked,Cooked,14,1,1,70,3.0,1.4,1.12,2.1,5.337463046048434,3.0
+11,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,2.2919531971538643,4.0
+12,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.6227804213449432,0.62
+12,Non Vegeterian,40,Spicy Seafood Stew Casserole With Tomatoes And Lime Recipe,Non Vegeterian,Viewed->Cooked,Cooked,10,1,1,50,3.0,1.2,0.8,1.5,4.149244193630166,3.0
+12,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,,0.7,0.16,0.3,2.4759658333752324,2.48
+12,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,12,1,1,60,,1.4,0.96,1.7999999999999998,5.01976123322181,5.0
+12,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Cooked,Cooked,6,1,1,30,,1.2,0.48,0.8999999999999999,3.6603141008952482,3.66
+12,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Saved,Saved,3,1,0,15,5.0,0.6,0.24,0.44999999999999996,2.150137024890908,5.0
+12,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Saved,Saved,6,1,0,30,4.0,0.6,0.48,0.8999999999999999,2.9093705586425505,4.0
+12,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,2.2265613468490764,3.0
+12,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.1719591433514425,4.0
+12,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,4.0,0.7,0.08,0.15,1.7492091137852386,4.0
+13,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.4658071179261154,3.0
+13,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,3.0,1.2,0.24,0.44999999999999996,2.4331041506957245,3.0
+13,Non Vegeterian,84,Chicken Tikka Taco Recipe Topped With Cheesy Garlic Mayo,Non Vegeterian,Viewed->Liked,Liked,7,1,0,35,4.0,0.7,0.56,1.05,3.1901138379712193,4.0
+13,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved,Saved,4,1,0,20,4.0,0.9,0.32,0.6,2.746300057379143,4.0
+13,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.36588655871885,1.37
+13,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,5.0,0.7,0.32,0.6,2.5170766467270416,5.0
+13,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.4753671177509142,4.0
+13,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.379638474552826,4.0
+13,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,5.0,1.2,0.08,0.15,2.37651694238782,5.0
+13,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,1.1960541560035995,1.2
+15,Vegetarian,402,Malpua Recipe with Rabri (A Spiced Indian Pancake with Milk Pudding),Vegetarian,Viewed->Cooked,Cooked,6,1,1,30,,1.2,0.48,0.8999999999999999,3.1372705543452426,3.14
+15,Vegetarian,237,Papaya and Carrot Halwa Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,14,1,1,70,5.0,1.7,1.12,2.1,5.805166670339787,5.0
+15,Vegetarian,269,Kurkuri Bhindi With Spicy Tomato Yogurt Gravy Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.389623328655331,3.0
+15,Vegetarian,353,Broccoli And Aloo Poriyal Recipe - South Indian Broccoli And Potato Stir Fry,Vegetarian,Viewed->Liked,Liked,5,1,0,25,,0.7,0.4,0.75,2.7531024413440703,2.75
+15,Vegetarian,474,Roasted Garlic Potato Soup Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.5581862836494107,2.56
+15,Vegetarian,275,Roasted Vegetable Pasta Primavera Recipe,Vegetarian,Viewed,Viewed,6,0,0,30,,0.0,0.48,0.8999999999999999,1.9004869393534007,1.9
+15,Vegetarian,477,Mysore Chutney Recipe,Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,5.0,0.9,0.16,0.3,2.6467792807510127,5.0
+15,Vegetarian,250,Zucchini Tater Tots Recipe - A Delicious Party Appetizer,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.7768060650785275,0.78
+15,Vegetarian,222,Hunase Gojju Recipe - Hunase Gojju Recipe,Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,4.0,1.2,0.16,0.3,2.765374814873043,4.0
+15,Vegetarian,352,Cauliflower Croquettes Recipe,Vegetarian,Viewed->Saved,Saved,10,1,0,50,5.0,0.6,0.8,1.5,4.008719169830815,5.0
+16,Eggetarian,439,Strawberry Chocolate Loaf Cake Recipe,Eggetarian,Viewed->Liked,Liked,2,1,0,10,5.0,0.7,0.16,0.3,2.131475658864458,5.0
+16,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,3,1,1,15,,1.4,0.24,0.44999999999999996,2.8491064160580475,2.85
+16,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,2.7429259108566595,4.0
+16,Eggetarian,15,Hariyali Egg Curry Recipe In Coriander and Mint Gravy,Eggetarian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,2.374938450729137,3.0
+16,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.4829688750764167,5.0
+16,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.6505162269812805,3.0
+16,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Saved,Saved,5,1,0,25,5.0,0.6,0.4,0.75,2.882932037122936,5.0
+16,Eggetarian,451,Chocolate Coffee Sticky Cake Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,5.0,1.4,0.24,0.44999999999999996,3.0695023095481226,5.0
+16,Eggetarian,221,Rich Dark Chocolate Mousse Recipe,Eggetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,1.146622791714877,1.15
+16,Eggetarian,393,Microwaved Egg-Omelette-In-A-Mug Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,,1.7,0.16,0.3,3.022173280197402,3.02
+17,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Cooked,Cooked,8,1,1,40,3.0,1.2,0.64,1.2,4.058636873212971,3.0
+17,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Saved,Saved,3,1,0,15,5.0,0.6,0.24,0.44999999999999996,1.817527500334104,5.0
+17,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,14,1,1,70,3.0,1.4,1.12,2.1,5.407647954533573,3.0
+17,Eggetarian,393,Microwaved Egg-Omelette-In-A-Mug Recipe,Eggetarian,Viewed->Liked->Saved,Saved,15,1,0,75,3.0,0.9,1.2,2.25,4.851307734880497,3.0
+17,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Liked,Liked,14,1,0,70,4.0,0.7,1.12,2.1,4.703555795778627,4.0
+17,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Liked->Saved,Saved,8,1,0,40,3.0,0.9,0.64,1.2,3.3852455587071657,3.0
+17,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Cooked,Cooked,2,1,1,10,,1.2,0.16,0.3,2.6048801084962143,2.6
+17,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.355899004712549,4.0
+17,Eggetarian,15,Hariyali Egg Curry Recipe In Coriander and Mint Gravy,Eggetarian,Viewed->Liked,Liked,1,1,0,5,5.0,0.7,0.08,0.15,1.4550719512237869,5.0
+17,Eggetarian,257,Egg and Bread Fried Rice Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,2.8495916470862745,5.0
+18,Eggetarian,342,Egg White Spinach Omelette Recipe With Garlic & Oregano,Eggetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.5010158101640263,5.0
+18,Eggetarian,404,Bavarian Mushroom Sauce Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,,1.7,0.08,0.15,2.646548524852105,2.65
+18,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,2.4527755511686857,5.0
+18,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.5628926931804172,2.56
+18,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,13,1,1,65,3.0,1.4,1.04,1.95,5.453915872687755,3.0
+18,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.3759668960948093,1.38
+18,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.8989714826745958,0.9
+18,Eggetarian,43,Cheesy Garlic Broccoli Nuggets Recipe,Eggetarian,Viewed->Liked->Saved,Saved,3,1,0,15,5.0,0.9,0.24,0.44999999999999996,2.5631644921304026,5.0
+18,Eggetarian,451,Chocolate Coffee Sticky Cake Recipe,Eggetarian,Viewed->Liked,Liked,1,1,0,5,3.0,0.7,0.08,0.15,1.6995501734265026,3.0
+18,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed,Viewed,6,0,0,30,,0.0,0.48,0.8999999999999999,1.99536115667726,2.0
+23,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Cooked,Cooked,2,1,1,10,5.0,1.2,0.16,0.3,2.499488121415482,5.0
+23,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Saved->Cooked,Cooked,7,1,1,35,,1.4,0.56,1.05,3.5298047615954538,3.53
+23,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.4989572049588933,3.0
+23,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.9078205352683528,1.91
+23,Non Vegeterian,517,Parsi Salli Boti Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.6777122479870332,2.68
+23,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,4.0,1.7,0.16,0.3,3.258489208423584,4.0
+23,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Cooked,Cooked,4,1,1,20,3.0,1.2,0.32,0.6,2.7766013709530895,3.0
+23,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.6587796950945566,4.0
+23,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,13,1,1,65,5.0,1.4,1.04,1.95,5.563770357605185,5.0
+23,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Cooked,Cooked,7,1,1,35,5.0,1.2,0.56,1.05,3.858218933852973,5.0
+25,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,4.0,1.7,0.32,0.6,3.8245138231460496,4.0
+25,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,12,1,1,60,5.0,1.4,0.96,1.7999999999999998,5.195636040065207,5.0
+25,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed,Viewed,7,0,0,35,,0.0,0.56,1.05,2.014626274989163,2.01
+25,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,5.0,0.9,0.08,0.15,2.0657345897717025,5.0
+25,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,4.0,1.4,0.16,0.3,2.5317224132002982,4.0
+25,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.6589672764926636,0.66
+25,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.694378933080116,2.69
+25,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,8,1,1,40,3.0,1.4,0.64,1.2,4.263270654040857,3.0
+25,Non Vegeterian,84,Chicken Tikka Taco Recipe Topped With Cheesy Garlic Mayo,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.3014830961847387,0.3
+25,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.637266357870245,3.0
+26,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.8954589682912757,0.9
+26,Non Vegeterian,460,Dum Pukht Gosht Recipe - Slow Cooked Mutton Curry,Non Vegeterian,Viewed->Liked,Liked,5,1,0,25,,0.7,0.4,0.75,2.709552769470669,2.71
+26,Non Vegeterian,84,Chicken Tikka Taco Recipe Topped With Cheesy Garlic Mayo,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,3.0,0.7,0.08,0.15,1.5945005406495665,3.0
+26,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Cooked,Cooked,6,1,1,30,3.0,1.2,0.48,0.8999999999999999,3.545976301482614,3.0
+26,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,10,1,1,50,3.0,1.4,0.8,1.5,4.29226680095904,3.0
+26,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.2394738279459008,1.24
+26,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.0986348792831457,1.1
+26,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.6604725782930964,0.66
+26,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.7416815654157338,1.74
+26,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Cooked,Cooked,2,1,1,10,,1.2,0.16,0.3,2.59157815301123,2.59
+28,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked->Cooked,Cooked,9,1,1,45,5.0,1.4,0.72,1.3499999999999999,3.9993227264836237,5.0
+28,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,2.4860427216358705,5.0
+28,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.503231931927283,4.0
+28,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,4,1,0,20,3.0,0.9,0.32,0.6,2.6914701676368646,3.0
+28,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Saved,Saved,5,1,0,25,5.0,0.6,0.4,0.75,2.465011749962379,5.0
+28,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,4,1,1,20,3.0,1.4,0.32,0.6,3.178624859794115,3.0
+28,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Cooked,Cooked,2,1,1,10,,1.2,0.16,0.3,2.3823303064101715,2.38
+28,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.538346993931863,2.54
+28,Non Vegeterian,136,Crispy Chicken Dumplings Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,4,1,1,20,5.0,1.4,0.32,0.6,3.3508500120355285,5.0
+28,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,3.0,1.7,0.16,0.3,2.7820144494450187,3.0
+31,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Saved,Saved,1,1,0,5,,0.6,0.08,0.15,1.7150412789726284,1.72
+31,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked->Cooked,Cooked,12,1,1,60,4.0,1.4,0.96,1.7999999999999998,5.026494606555412,4.0
+31,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,13,1,1,65,5.0,1.4,1.04,1.95,4.9334174498502765,5.0
+31,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed->Cooked,Cooked,5,1,1,25,5.0,1.2,0.4,0.75,3.2774113108707437,5.0
+31,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,3.007615514792874,3.01
+31,Non Vegeterian,136,Crispy Chicken Dumplings Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,5,1,0,25,5.0,0.9,0.4,0.75,2.5898202356585998,5.0
+31,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Cooked,Cooked,4,1,1,20,4.0,1.2,0.32,0.6,2.902335298746789,4.0
+31,Non Vegeterian,66,Spicy Lemon Chicken Kebab Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,5.0,1.7,0.16,0.3,2.934831562113936,5.0
+31,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.6446488563139396,4.0
+31,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Saved,Saved,4,1,0,20,4.0,0.6,0.32,0.6,2.499069866278604,4.0
+32,Vegetarian,305,Desiccated Coconut Coriander Chutney Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.611999956786108,3.0
+32,Vegetarian,450,Goan Style Banana Halwa Recipe (Kelyacho Halwo),Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.4380065283183967,2.44
+32,Vegetarian,121,Aromatic Vegetable Pulao Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.466502718267773,2.47
+32,Vegetarian,128,Moong Dal Khichdi Recipe For Babies And Toddlers Over 10 Months,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.5616080887034505,3.0
+32,Vegetarian,389,Chettinad Vengaya Kosu Recipe (Spicy Curry from Chettinad Cuisine),Vegetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,2.3695425824932816,5.0
+32,Vegetarian,381,Peas and Peel Vegetables (Peas & Peel Stir Fry Recipe),Vegetarian,Viewed->Cooked,Cooked,13,1,1,65,,1.2,1.04,1.95,4.80389655187906,4.8
+32,Vegetarian,397,Chawli Ki Phali & Aloo Sabzi Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.4796564901336904,3.0
+32,Vegetarian,321,Himachal Style Khatta Jimikand Recipe - Spicy Tangy Yam,Vegetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.9198382967855636,2.92
+32,Vegetarian,202,Sweet & Spicy Vegetable Hong Kong Style Recipe,Vegetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.7894754816710208,1.79
+32,Vegetarian,68,Gond Ke Ladoo Recipe - Edible Gum Ladoo,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.4271134997813735,5.0
+34,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Liked->Saved,Saved,14,1,0,70,4.0,0.9,1.12,2.1,5.08408595089783,4.0
+34,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Liked,Liked,7,1,0,35,5.0,0.7,0.56,1.05,3.1713276813551743,5.0
+34,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.6070128698620536,3.0
+34,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.500948411923839,4.0
+34,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed,Viewed,10,0,0,50,,0.0,0.8,1.5,2.8331900161747297,2.83
+34,Eggetarian,393,Microwaved Egg-Omelette-In-A-Mug Recipe,Eggetarian,Viewed->Saved,Saved,4,1,0,20,3.0,0.6,0.32,0.6,2.530712604060419,3.0
+34,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Liked->Saved,Saved,5,1,0,25,4.0,0.9,0.4,0.75,2.7621224423272235,4.0
+34,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked->Saved,Saved,2,1,0,10,,0.9,0.16,0.3,1.9590538242609836,1.96
+34,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,1.3774186947826543,1.38
+34,Eggetarian,43,Cheesy Garlic Broccoli Nuggets Recipe,Eggetarian,Viewed->Liked->Saved,Saved,9,1,0,45,3.0,0.9,0.72,1.3499999999999999,3.83350830709478,3.0
+35,Non Vegeterian,84,Chicken Tikka Taco Recipe Topped With Cheesy Garlic Mayo,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,1.898270698654391,3.0
+35,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.197545596265271,5.0
+35,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,4.0,1.7,0.48,0.8999999999999999,3.755059098351109,4.0
+35,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,16,1,1,80,3.0,1.4,1.28,2.4,6.011445864832236,3.0
+35,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,5.0,1.7,0.16,0.3,3.2449509589074834,5.0
+35,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.1561603351131987,0.16
+35,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Cooked,Cooked,6,1,1,30,3.0,1.2,0.48,0.8999999999999999,3.508162610456531,3.0
+35,Non Vegeterian,40,Spicy Seafood Stew Casserole With Tomatoes And Lime Recipe,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,4.0,1.2,0.24,0.44999999999999996,2.6104610881911587,4.0
+35,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Cooked,Cooked,20,1,1,100,5.0,1.2,1.5,2.5,6.177949731299164,5.0
+35,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.4605226614093016,4.0
+40,Non Vegeterian,517,Parsi Salli Boti Recipe,Non Vegeterian,Viewed->Liked,Liked,9,1,0,45,5.0,0.7,0.72,1.3499999999999999,3.6375540689891417,5.0
+40,Non Vegeterian,460,Dum Pukht Gosht Recipe - Slow Cooked Mutton Curry,Non Vegeterian,Viewed->Saved->Cooked,Cooked,6,1,1,30,,1.4,0.48,0.8999999999999999,3.9372648620639534,3.94
+40,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,5.0,1.7,0.16,0.3,3.0581764949491337,5.0
+40,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,5.0,1.7,0.16,0.3,2.7671883215716595,5.0
+40,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,3.0,0.7,0.16,0.3,1.989059741279446,3.0
+40,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.36475266433910386,0.36
+40,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,3.0,1.7,0.32,0.6,3.2967019973279665,3.0
+40,Non Vegeterian,365,Kerala Chicken Curry Recipe With Freshly Ground Spices,Non Vegeterian,Viewed->Cooked,Cooked,1,1,1,5,5.0,1.2,0.08,0.15,2.0794038839893365,5.0
+40,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Liked->Cooked,Cooked,14,1,1,70,5.0,1.4,1.12,2.1,5.63766008182265,5.0
+40,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.8270178884337893,1.83
+42,Vegetarian,14,Saunf Aloo (Fennel Potato Curry) Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,2.660925017664739,4.0
+42,Vegetarian,172,Rajasthani Goonde Vegetable Recipe (Bird Lime Stir Fry),Vegetarian,Viewed->Cooked,Cooked,4,1,1,20,4.0,1.2,0.32,0.6,2.8175410406252688,4.0
+42,Vegetarian,12,Andhra Steel Ingavu Charu Recipe - Asfoitida Flavored Tamarand Rasam,Vegetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.9805841369584052,0.98
+42,Vegetarian,196,Baked Potato-Spaghetti Rolls Recipe,Vegetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.839775175955403,0.84
+42,Vegetarian,467,Bhindi and Capsicum Sabzi Recipe,Vegetarian,Viewed->Liked,Liked,9,1,0,45,3.0,0.7,0.72,1.3499999999999999,3.523059680967837,3.0
+42,Vegetarian,18,South Indian Style Murungakkai Poriyal Recipe - Drumstick Stir Fry,Vegetarian,Viewed->Liked->Saved,Saved,1,1,0,5,5.0,0.9,0.08,0.15,1.6222852178870002,5.0
+42,Vegetarian,173,Raw Jackfruit Burrito Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,5.0,1.4,0.24,0.44999999999999996,2.7721286278999524,5.0
+42,Vegetarian,499,Konkani Style Maskasangi Magge Koddel Recipe-Drumstick and Mangalore Cucumber Curry,Vegetarian,Viewed->Liked,Liked,2,1,0,10,4.0,0.7,0.16,0.3,1.6932915770223995,4.0
+42,Vegetarian,48,Masala Sandwich Recipe With Rocket Leaves,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.3312931638532906,3.0
+42,Vegetarian,299,Potato Stuffed Dal Dhokli Recipe,Vegetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.8047573826144363,0.8
+44,Vegetarian,124,One Pot Spicy Vegetable Pulao Recipe with Coconut Milk,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,3.185766101087742,5.0
+44,Vegetarian,41,Spicy Chilli Garlic Noodles Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,10,1,1,50,,1.7,0.8,1.5,5.037959906362243,5.0
+44,Vegetarian,185,Stuffed Onion Vegetable Recipe - Bharwa Pyaz Ki Sabzi Recipe,Vegetarian,Viewed->Cooked,Cooked,7,1,1,35,3.0,1.2,0.56,1.05,3.7313416304717286,3.0
+44,Vegetarian,321,Himachal Style Khatta Jimikand Recipe - Spicy Tangy Yam,Vegetarian,Viewed->Liked,Liked,9,1,0,45,4.0,0.7,0.72,1.3499999999999999,3.829857056405808,4.0
+44,Vegetarian,364,Guilt Free Coconut Barfi Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,4.0,1.7,0.08,0.15,2.4576711024682636,4.0
+44,Vegetarian,348,Broken Wheat Upma Or Dalia Khichdi Recipe for Babies & Toddlers,Vegetarian,Viewed->Liked,Liked,2,1,0,10,4.0,0.7,0.16,0.3,1.9322146621333565,4.0
+44,Vegetarian,81,Cheese Stuffed Aloo Bonda Recipe,Vegetarian,Viewed->Liked->Saved,Saved,4,1,0,20,4.0,0.9,0.32,0.6,2.7082650986107906,4.0
+44,Vegetarian,248,Stuffed Radish Paneer Paratha Recipe,Vegetarian,Viewed->Cooked,Cooked,14,1,1,70,3.0,1.2,1.12,2.1,5.115731916275146,3.0
+44,Vegetarian,483,Bengali Style Kucho Nimki Recipe (Diamond Shaped Salty Snacks),Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.193810235960627,2.19
+44,Vegetarian,307,Kerala Style Tapioca with Coconut Curd Chutney Recipe,Vegetarian,Viewed->Liked,Liked,4,1,0,20,4.0,0.7,0.32,0.6,2.5665919715648466,4.0
+47,Vegetarian,453,Carrot Tadka Raita Recipe- Crunchy Grated Carrot In Yogurt,Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,4.0,1.2,0.16,0.3,2.6510547106340225,4.0
+47,Vegetarian,286,Party Sev Puri Recipe Filled With Potato & Pomegranate Mint Mayo,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.8697317018349935,4.0
+47,Vegetarian,19,Kesar Mango Lassi Recipe - Saffron Mango Lassi Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,8,1,1,40,3.0,1.7,0.64,1.2,4.279712075432587,3.0
+47,Vegetarian,332,Sweet Potato Dal Recipe,Vegetarian,Viewed->Cooked,Cooked,4,1,1,20,4.0,1.2,0.32,0.6,2.7586461236333397,4.0
+47,Vegetarian,307,Kerala Style Tapioca with Coconut Curd Chutney Recipe,Vegetarian,Viewed->Liked->Saved,Saved,6,1,0,30,,0.9,0.48,0.8999999999999999,2.8791066261766063,2.88
+47,Vegetarian,80,Kerala Style Raw Banana and Suran Kotu Curry Recipe - Kerala Style Plantain & Yam Thoran Recipe,Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,5.0,0.9,0.16,0.3,2.3342993341505047,5.0
+47,Vegetarian,32,Whole Wheat Pita Bread Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,10,1,1,50,,1.4,0.8,1.5,4.475262347818239,4.48
+47,Vegetarian,406,Karpooravalli Chutney Recipe (Tamil Nadu Chutney With Big Thyme),Vegetarian,Viewed->Liked,Liked,3,1,0,15,,0.7,0.24,0.44999999999999996,2.3998051882692133,2.4
+47,Vegetarian,420,Pacha Manga Pachadi Recipe - Raw Mango Pachadi,Vegetarian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.1970174381846999,1.2
+47,Vegetarian,313,Fansi Muthia Nu Shaak Recipe - Green Beans With Gram Flour Dumplings,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.276694217720301,5.0
+48,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.856873499300314,3.0
+48,Non Vegeterian,408,Chicken With Mushroom Sauce Recipe,Non Vegeterian,Viewed->Saved,Saved,5,1,0,25,5.0,0.6,0.4,0.75,2.466605569314372,5.0
+48,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,3.0,0.7,0.32,0.6,2.6575507092219084,3.0
+48,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,8,1,1,40,,1.7,0.64,1.2,4.510439625691919,4.51
+48,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed->Saved,Saved,5,1,0,25,5.0,0.6,0.4,0.75,2.760134808200091,5.0
+48,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Saved,Saved,19,1,0,95,4.0,0.6,1.5,2.5,5.439969431299234,4.0
+48,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed,Viewed,9,0,0,45,,0.0,0.72,1.3499999999999999,2.3856301239484443,2.39
+48,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,4.0,1.2,0.24,0.44999999999999996,2.582612784112089,4.0
+48,Non Vegeterian,315,Kashmiri Style Shab Deg Recipe-Mutton Kofta and Turnip Curry,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,3.0,0.9,0.08,0.15,1.8960209642122514,3.0
+48,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,8,1,1,40,4.0,1.4,0.64,1.2,4.023908929591828,4.0
+49,Vegetarian,319,Baked Muesli Tart with Strawberry Yogurt and Chia Seeds Recipe,Vegetarian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.081086356431641,4.0
+49,Vegetarian,401,Rice Recipe - Steamed Rice Recipe,Vegetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.9338301772297926,1.93
+49,Vegetarian,24,Matar Samosa Recipe -Green Pea Samosa,Vegetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.2269078931284771,1.23
+49,Vegetarian,74,Chirer Dudh Puli Recipe - Bengali Style Baten Rice Dumpling Milk,Vegetarian,Viewed->Liked->Saved,Saved,6,1,0,30,4.0,0.9,0.48,0.8999999999999999,2.646248544260012,4.0
+49,Vegetarian,484,Tzatziki Recipe - A Greek Yogurt Dip,Vegetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.6028277511627531,1.6
+49,Vegetarian,117,Katachi Amti ,Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.9362845066680903,3.0
+49,Vegetarian,52,Mango Donut Cake Recipe With Chocolate Glaze,Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,,1.4,0.24,0.44999999999999996,3.1444793892821408,3.14
+49,Vegetarian,140,Aloo Matar Masala Khichdi Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,5.0,1.7,0.24,0.44999999999999996,3.186993499790121,5.0
+49,Vegetarian,249,Orange Peppermint Green Tea Punch Recipe,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.37493573907071986,0.37
+49,Vegetarian,218,Barley Whole Wheat Coffee Marble Cake Recipe,Vegetarian,Viewed->Liked->Saved,Saved,1,1,0,5,3.0,0.9,0.08,0.15,1.5428767309624312,3.0
+50,Vegetarian,180,Spaghetti Aglio Olio With Parmesan & Greens Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,20,1,1,100,4.0,1.4,1.5,2.5,6.110203228016955,4.0
+50,Vegetarian,220,Andhra Style Lettuce Pulp Recipe (Spinach Dal Recipe),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,4.0,1.7,0.16,0.3,2.9742031323623572,4.0
+50,Vegetarian,214,Beetroot Loni Sponge Dosa Recipe,Vegetarian,Viewed->Saved,Saved,1,1,0,5,3.0,0.6,0.08,0.15,1.3698747870648913,3.0
+50,Vegetarian,229,Kaigari Pirattal Recipe (Chettinad Style Mixed Vegetables),Vegetarian,Viewed->Liked->Saved,Saved,6,1,0,30,5.0,0.9,0.48,0.8999999999999999,3.1664929626809584,5.0
+50,Vegetarian,311,Grilled Eggplant With Tahini and Yogurt Dip Recipe,Vegetarian,Viewed->Liked->Saved,Saved,11,1,0,55,4.0,0.9,0.88,1.65,4.48255077942145,4.0
+50,Vegetarian,138,Andaman Style Steamed Garlic Prawns Recipe,Vegetarian,Viewed->Cooked,Cooked,4,1,1,20,5.0,1.2,0.32,0.6,2.9723759488959343,5.0
+50,Vegetarian,491,Kashmiri Style Bharit Marchavangun Recipe-Stuffed Chillies,Vegetarian,Viewed,Viewed,9,0,0,45,,0.0,0.72,1.3499999999999999,2.596965530016297,2.6
+50,Vegetarian,145,Classic Grilled Tomato Cucumber Chutney Sandwich Recipe,Vegetarian,Viewed->Liked,Liked,2,1,0,10,4.0,0.7,0.16,0.3,2.0433789008375465,4.0
+50,Vegetarian,204,Tender Coconut Ice Cream Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.261689980202117,3.0
+50,Vegetarian,332,Sweet Potato Dal Recipe,Vegetarian,Viewed->Liked->Saved,Saved,8,1,0,40,3.0,0.9,0.64,1.2,3.8629560146564312,3.0
+51,Non Vegeterian,460,Dum Pukht Gosht Recipe - Slow Cooked Mutton Curry,Non Vegeterian,Viewed->Liked->Saved,Saved,2,1,0,10,,0.9,0.16,0.3,2.266738304133795,2.27
+51,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Saved,Saved,3,1,0,15,5.0,0.6,0.24,0.44999999999999996,2.453040050194603,5.0
+51,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,6,1,1,30,3.0,1.4,0.48,0.8999999999999999,3.7832446195857194,3.0
+51,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Cooked,Cooked,2,1,1,10,,1.2,0.16,0.3,2.311763507055529,2.31
+51,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.8064775037121836,3.0
+51,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.7023927042609492,1.7
+51,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Liked,Liked,3,1,0,15,5.0,0.7,0.24,0.44999999999999996,1.744871801293002,5.0
+51,Non Vegeterian,84,Chicken Tikka Taco Recipe Topped With Cheesy Garlic Mayo,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,4.0,1.7,0.48,0.8999999999999999,4.136399999128409,4.0
+51,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,,0.9,0.08,0.15,2.0895448127556673,2.09
+51,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,4.0,1.4,0.16,0.3,2.544938786961376,4.0
+53,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed,Viewed,11,0,0,55,,0.0,0.88,1.65,2.8053891665362105,2.81
+53,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,11,1,1,55,4.0,1.4,0.88,1.65,4.53540682308514,4.0
+53,Non Vegeterian,40,Spicy Seafood Stew Casserole With Tomatoes And Lime Recipe,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,4.0,0.7,0.32,0.6,2.7568666627819374,4.0
+53,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Liked->Saved,Saved,9,1,0,45,4.0,0.9,0.72,1.3499999999999999,3.7985672321867847,4.0
+53,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,3.0,0.7,0.32,0.6,2.3238732806861395,3.0
+53,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Saved->Cooked,Cooked,20,1,1,100,,1.4,1.5,2.5,6.47008642445012,5.0
+53,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,13,1,0,65,4.0,0.9,1.04,1.95,4.606072101621498,4.0
+53,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,4,1,0,20,3.0,0.9,0.32,0.6,2.6411096864988215,3.0
+53,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.8611553047726703,0.86
+53,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.8092905412108989,0.81
+54,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Cooked,Cooked,11,1,1,55,5.0,1.2,0.88,1.65,4.6592656182953816,5.0
+54,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Liked,Liked,11,1,0,55,,0.7,0.88,1.65,3.916642009693278,3.92
+54,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,4,1,1,20,4.0,1.4,0.32,0.6,3.522275634743564,4.0
+54,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,20,1,0,100,4.0,0.9,1.5,2.5,5.983786470473019,4.0
+54,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.694278197225667,4.0
+54,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Saved->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.8776189812470383,3.0
+54,Non Vegeterian,354,Hot and Spicy Chicken Curry Noodles Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,3,1,0,15,,0.9,0.24,0.44999999999999996,2.2675852557430876,2.27
+54,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.31815976367406223,0.32
+54,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Saved,Saved,3,1,0,15,4.0,0.6,0.24,0.44999999999999996,1.7229105449085433,4.0
+54,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Saved,Saved,1,1,0,5,4.0,0.6,0.08,0.15,1.4662052043510077,4.0
+56,Vegetarian,378,Pumpkin Peas Palya Recipe,Vegetarian,Viewed->Liked->Saved,Saved,4,1,0,20,5.0,0.9,0.32,0.6,2.925971204994232,5.0
+56,Vegetarian,421,Odiya Style Chana Dal With Potato & Pumpkin Curry Recipe,Vegetarian,Viewed->Liked,Liked,11,1,0,55,,0.7,0.88,1.65,3.9347854213580185,3.93
+56,Vegetarian,138,Andaman Style Steamed Garlic Prawns Recipe,Vegetarian,Viewed->Liked,Liked,5,1,0,25,4.0,0.7,0.4,0.75,2.9427395946032657,4.0
+56,Vegetarian,353,Broccoli And Aloo Poriyal Recipe - South Indian Broccoli And Potato Stir Fry,Vegetarian,Viewed->Liked->Saved,Saved,7,1,0,35,3.0,0.9,0.56,1.05,3.6391595151112885,3.0
+56,Vegetarian,177,Baby Corn Cigar Recipe,Vegetarian,Viewed->Saved,Saved,4,1,0,20,4.0,0.6,0.32,0.6,2.185537698666671,4.0
+56,Vegetarian,456,Senai Potato Curry Recipe - Spicy Chettinad Style Yum Stir Pre,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.9075814279401846,4.0
+56,Vegetarian,283,Pista Burfi Recipe - Indian Spiced Pistachio Fudge,Vegetarian,Viewed->Saved,Saved,4,1,0,20,4.0,0.6,0.32,0.6,2.053723812656198,4.0
+56,Vegetarian,162,Assamese Sweet Kordoi Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.9538123184164826,4.0
+56,Vegetarian,377,Spinach & Garlic Potato Patties Recipe,Vegetarian,Viewed->Liked->Saved,Saved,3,1,0,15,5.0,0.9,0.24,0.44999999999999996,2.3958853728345946,5.0
+56,Vegetarian,483,Bengali Style Kucho Nimki Recipe (Diamond Shaped Salty Snacks),Vegetarian,Viewed->Saved->Cooked,Cooked,6,1,1,30,,1.4,0.48,0.8999999999999999,3.7026761115923623,3.7
+58,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Saved,Saved,3,1,0,15,4.0,0.6,0.24,0.44999999999999996,2.2110047006682665,4.0
+58,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed,Viewed,8,0,0,40,,0.0,0.64,1.2,2.4478857722556198,2.45
+58,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Saved,Saved,13,1,0,65,4.0,0.6,1.04,1.95,4.517999088912612,4.0
+58,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Liked,Liked,5,1,0,25,3.0,0.7,0.4,0.75,2.8143436574911953,3.0
+58,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked,Liked,4,1,0,20,3.0,0.7,0.32,0.6,2.2102912527017757,3.0
+58,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Saved,Saved,16,1,0,80,4.0,0.9,1.28,2.4,5.3459891360697664,4.0
+58,Non Vegeterian,429,Mexican Lime Chicken Recipe,Non Vegeterian,Viewed->Cooked,Cooked,8,1,1,40,,1.2,0.64,1.2,3.778589320443988,3.78
+58,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,2.7648819003857397,4.0
+58,Non Vegeterian,517,Parsi Salli Boti Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,14,1,1,70,4.0,1.4,1.12,2.1,5.4355281063511,4.0
+58,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,1.1730439612052985,1.17
+60,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.4714908253014165,0.47
+60,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.705805859512432,2.71
+60,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Liked,Liked,2,1,0,10,5.0,0.7,0.16,0.3,1.6591159543820404,5.0
+60,Eggetarian,257,Egg and Bread Fried Rice Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,16,1,1,80,3.0,1.4,1.28,2.4,6.230876727087949,3.0
+60,Eggetarian,404,Bavarian Mushroom Sauce Recipe,Eggetarian,Viewed->Saved,Saved,3,1,0,15,3.0,0.6,0.24,0.44999999999999996,1.834381273099377,3.0
+60,Eggetarian,15,Hariyali Egg Curry Recipe In Coriander and Mint Gravy,Eggetarian,Viewed->Liked->Saved,Saved,2,1,0,10,3.0,0.9,0.16,0.3,2.1647170658352026,3.0
+60,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Liked->Saved,Saved,7,1,0,35,3.0,0.9,0.56,1.05,3.128989812756823,3.0
+60,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed->Saved,Saved,3,1,0,15,3.0,0.6,0.24,0.44999999999999996,2.3580411207340477,3.0
+60,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,5.0,1.7,0.48,0.8999999999999999,3.951615667477661,5.0
+60,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Liked,Liked,7,1,0,35,5.0,0.7,0.56,1.05,2.780824330688002,5.0
+63,Eggetarian,234,Flourless Orange Cake With Cream Cheese Frosting Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.2252521012843487,3.0
+63,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed,Viewed,8,0,0,40,,0.0,0.64,1.2,2.1370925009563253,2.14
+63,Eggetarian,46,Iranian Baida Curry Recipe,Eggetarian,Viewed->Saved,Saved,3,1,0,15,3.0,0.6,0.24,0.44999999999999996,1.800086386023716,3.0
+63,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,7,1,1,35,5.0,1.4,0.56,1.05,3.8831588881046106,5.0
+63,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.8469787624342444,0.85
+63,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Cooked,Cooked,20,1,1,100,4.0,1.2,1.5,2.5,5.929654409526558,4.0
+63,Eggetarian,221,Rich Dark Chocolate Mousse Recipe,Eggetarian,Viewed->Liked->Saved,Saved,3,1,0,15,4.0,0.9,0.24,0.44999999999999996,2.132838893935055,4.0
+63,Eggetarian,404,Bavarian Mushroom Sauce Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,3.1597266888148847,4.0
+63,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,3.0,1.7,0.48,0.8999999999999999,3.8302994585669667,3.0
+63,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,5,1,1,25,4.0,1.4,0.4,0.75,3.15581329219515,4.0
+64,Eggetarian,43,Cheesy Garlic Broccoli Nuggets Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,3.0,1.7,0.08,0.15,2.888008842770459,3.0
+64,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Saved,Saved,6,1,0,30,4.0,0.6,0.48,0.8999999999999999,2.687771652944113,4.0
+64,Eggetarian,509,Watalappan Recipe - Steamed Egg Pudding With Jaggery,Eggetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.834442082750665,4.0
+64,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Saved,Saved,12,1,0,60,4.0,0.6,0.96,1.7999999999999998,4.109414913135835,4.0
+64,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Liked->Saved,Saved,2,1,0,10,,0.9,0.16,0.3,2.4582980529491136,2.46
+64,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed->Liked->Cooked,Cooked,15,1,1,75,4.0,1.4,1.2,2.25,5.4266393860607,4.0
+64,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Saved->Cooked,Cooked,4,1,1,20,3.0,1.4,0.32,0.6,3.115742430974995,3.0
+64,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed,Viewed,20,0,0,100,,0.0,1.5,2.5,4.420713221936231,4.42
+64,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,,1.7,0.24,0.44999999999999996,3.398227675136311,3.4
+64,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Liked,Liked,4,1,0,20,3.0,0.7,0.32,0.6,2.2367183479680173,3.0
+65,Vegetarian,227,"Til Moongphali Aur Kundru Sabzi Recipe - Sesame, Peanuts And Ivy Gourd Stir Fry",Vegetarian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,2.001324210123771,3.0
+65,Vegetarian,461,Idli Manchurian Recipe With Oriental Twist,Vegetarian,Viewed->Liked->Saved,Saved,14,1,0,70,3.0,0.9,1.12,2.1,4.841823881301214,3.0
+65,Vegetarian,218,Barley Whole Wheat Coffee Marble Cake Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,6,1,1,30,3.0,1.4,0.48,0.8999999999999999,3.3513204312083,3.0
+65,Vegetarian,281,Spaghetti Pasta Recipe In Roasted Pumpkin Sauce,Vegetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.9316720890437258,0.93
+65,Vegetarian,223,Qahwa | Arabic Coffee Recipe,Vegetarian,Viewed->Liked,Liked,4,1,0,20,,0.7,0.32,0.6,2.262472295336153,2.26
+65,Vegetarian,69,Mukhadi Halwa Recipe (Semolina & All Purpose Flour Halwa),Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,4.0,1.4,0.24,0.44999999999999996,3.023174531173359,4.0
+65,Vegetarian,490,Odisha Style Aloo Husband Recipe -Aloo Mash Sabeeji,Vegetarian,Viewed->Liked->Saved,Saved,3,1,0,15,3.0,0.9,0.24,0.44999999999999996,2.5177756365230826,3.0
+65,Vegetarian,512,Aamras Ki Kadhi Recipe - Mango Kadhi Recipe,Vegetarian,Viewed->Saved,Saved,8,1,0,40,5.0,0.6,0.64,1.2,2.81201534938972,5.0
+65,Vegetarian,124,One Pot Spicy Vegetable Pulao Recipe with Coconut Milk,Vegetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.881836682810728,3.0
+65,Vegetarian,484,Tzatziki Recipe - A Greek Yogurt Dip,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.541381240975628,2.54
+66,Vegetarian,141,Rock Toast Recipe - Semolina Bread Toast,Vegetarian,Viewed->Liked->Saved,Saved,4,1,0,20,3.0,0.9,0.32,0.6,2.595540703046372,3.0
+66,Vegetarian,470,Black Eyed Peas Masala Vadas Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,3.340669932383082,3.0
+66,Vegetarian,414,Ginger Sesame Chicken With Bok Choy And Mushrooms Recipe,Vegetarian,Viewed->Liked,Liked,3,1,0,15,3.0,0.7,0.24,0.44999999999999996,1.9191231023070645,3.0
+66,Vegetarian,223,Qahwa | Arabic Coffee Recipe,Vegetarian,Viewed->Cooked,Cooked,5,1,1,25,5.0,1.2,0.4,0.75,3.2075966225449246,5.0
+66,Vegetarian,305,Desiccated Coconut Coriander Chutney Recipe,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.3518697372153066,0.35
+66,Vegetarian,71,Basil Tincture Recipe (Or) - Herbal Drink From Basil,Vegetarian,Viewed->Saved,Saved,13,1,0,65,5.0,0.6,1.04,1.95,4.620409549510271,5.0
+66,Vegetarian,266,Green Moong Dal Sundal Recipe - Green Moong Dal Sundal Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,3.0,1.7,0.24,0.44999999999999996,3.271432967493628,3.0
+66,Vegetarian,59,Shanghai Style Chap Nian Gao Recipes (Stir Fried Rice Cakes Recipes),Vegetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,3.1275549921461363,5.0
+66,Vegetarian,118,Khara Obbattu Recipe (Bread Stuffed With Spicy Potato Mixture Recipe),Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,,1.2,0.16,0.3,2.690279591781253,2.69
+66,Vegetarian,222,Hunase Gojju Recipe - Hunase Gojju Recipe,Vegetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.7131145509140473,1.71
+69,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,3.0,1.7,0.32,0.6,3.0710076379992985,3.0
+69,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Liked,Liked,2,1,0,10,3.0,0.7,0.16,0.3,1.7122554429198067,3.0
+69,Eggetarian,46,Iranian Baida Curry Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,8,1,1,40,5.0,1.4,0.64,1.2,3.944667837303908,5.0
+69,Eggetarian,221,Rich Dark Chocolate Mousse Recipe,Eggetarian,Viewed->Liked,Liked,6,1,0,30,,0.7,0.48,0.8999999999999999,2.7907315126754226,2.79
+69,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed->Liked,Liked,5,1,0,25,3.0,0.7,0.4,0.75,2.7939473596939526,3.0
+69,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Saved,Saved,3,1,0,15,4.0,0.6,0.24,0.44999999999999996,1.7438232503159434,4.0
+69,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,8,1,1,40,5.0,1.4,0.64,1.2,4.144977454977705,5.0
+69,Eggetarian,403,Mexican Style Omelette With Avocado Dressing Recipe,Eggetarian,Viewed->Cooked,Cooked,2,1,1,10,3.0,1.2,0.16,0.3,2.5082651549437807,3.0
+69,Eggetarian,439,Strawberry Chocolate Loaf Cake Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,11,1,1,55,5.0,1.4,0.88,1.65,4.787588629455167,5.0
+69,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,4,1,1,20,,1.4,0.32,0.6,2.9541093377863246,2.95
+71,Vegetarian,38,Paneer Tikka Saddle Roll Recipe,Vegetarian,Viewed->Saved,Saved,7,1,0,35,5.0,0.6,0.56,1.05,2.8787453046162024,5.0
+71,Vegetarian,352,Cauliflower Croquettes Recipe,Vegetarian,Viewed->Liked,Liked,3,1,0,15,3.0,0.7,0.24,0.44999999999999996,2.2266624849327545,3.0
+71,Vegetarian,67,Paneer Butter Masala Biryani Recipe - Layered Paneer Butter Masala Biryani Recipe,Vegetarian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.1025933704105033,4.0
+71,Vegetarian,32,Whole Wheat Pita Bread Recipe,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.7435294518775358,0.74
+71,Vegetarian,24,Matar Samosa Recipe -Green Pea Samosa,Vegetarian,Viewed->Liked,Liked,1,1,0,5,5.0,0.7,0.08,0.15,2.0452545714498775,5.0
+71,Vegetarian,474,Roasted Garlic Potato Soup Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,14,1,1,70,4.0,1.7,1.12,2.1,5.5824485965715445,4.0
+71,Vegetarian,359,Mishti Doi Recipe - Traditional Bengali Sweet Yogurt,Vegetarian,Viewed->Saved->Cooked,Cooked,11,1,1,55,5.0,1.4,0.88,1.65,4.586595958757678,5.0
+71,Vegetarian,286,Party Sev Puri Recipe Filled With Potato & Pomegranate Mint Mayo,Vegetarian,Viewed->Saved,Saved,6,1,0,30,5.0,0.6,0.48,0.8999999999999999,2.7108530935334256,5.0
+71,Vegetarian,275,Roasted Vegetable Pasta Primavera Recipe,Vegetarian,Viewed->Liked->Saved,Saved,6,1,0,30,4.0,0.9,0.48,0.8999999999999999,3.326986161413979,4.0
+71,Vegetarian,49,Tomato Relish Recipe,Vegetarian,Viewed->Saved,Saved,4,1,0,20,3.0,0.6,0.32,0.6,2.1601530039930648,3.0
+73,Vegetarian,21,Spinach Garlic Bruschetta Recipe With Red Bell Pepper Sauce,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,2.9586234558244056,5.0
+73,Vegetarian,226,Goan Style Sando Recipe (Steamed Rice Cakes Filled With Sweet Coconut),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,,1.7,0.08,0.15,2.7163652697653236,2.72
+73,Vegetarian,499,Konkani Style Maskasangi Magge Koddel Recipe-Drumstick and Mangalore Cucumber Curry,Vegetarian,Viewed->Saved->Cooked,Cooked,7,1,1,35,,1.4,0.56,1.05,4.07518074576299,4.08
+73,Vegetarian,33,Andhra Steel Tomato Knock Recipe (Tomato Chutney),Vegetarian,Viewed->Saved,Saved,10,1,0,50,3.0,0.6,0.8,1.5,3.753609800286821,3.0
+73,Vegetarian,352,Cauliflower Croquettes Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.6494526107584795,3.0
+73,Vegetarian,217,Spicy Baby Potatoes Recipe,Vegetarian,Viewed->Saved,Saved,2,1,0,10,,0.6,0.16,0.3,2.0238252785130872,2.02
+73,Vegetarian,481,Raw Banana Raita Recipe,Vegetarian,Viewed->Liked,Liked,8,1,0,40,4.0,0.7,0.64,1.2,3.519759768762117,4.0
+73,Vegetarian,243,Corn only quiche recipe,Vegetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.3981669559996724,0.4
+73,Vegetarian,172,Rajasthani Goonde Vegetable Recipe (Bird Lime Stir Fry),Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.7243181612467902,0.72
+73,Vegetarian,402,Malpua Recipe with Rabri (A Spiced Indian Pancake with Milk Pudding),Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.5231779809841,4.0
+75,Eggetarian,342,Egg White Spinach Omelette Recipe With Garlic & Oregano,Eggetarian,Viewed->Cooked,Cooked,5,1,1,25,4.0,1.2,0.4,0.75,3.3033151205960327,4.0
+75,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Liked,Liked,3,1,0,15,,0.7,0.24,0.44999999999999996,2.181829598871507,2.18
+75,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Liked,Liked,4,1,0,20,4.0,0.7,0.32,0.6,2.3518743266208944,4.0
+75,Eggetarian,46,Iranian Baida Curry Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,3.0,1.7,0.48,0.8999999999999999,3.816144221643122,3.0
+75,Eggetarian,451,Chocolate Coffee Sticky Cake Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,13,1,1,65,5.0,1.4,1.04,1.95,5.051245132226705,5.0
+75,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.5769749570393046,4.0
+75,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.7729969502250231,1.77
+75,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Liked,Liked,1,1,0,5,4.0,0.7,0.08,0.15,1.5624620306243384,4.0
+75,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Cooked,Cooked,10,1,1,50,,1.2,0.8,1.5,4.275165224918134,4.28
+75,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,4.0,1.7,0.48,0.8999999999999999,3.8696616699075888,4.0
+76,Eggetarian,257,Egg and Bread Fried Rice Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,8,1,1,40,,1.4,0.64,1.2,4.280290556268117,4.28
+76,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,2.8262840409851195,5.0
+76,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Liked,Liked,4,1,0,20,5.0,0.7,0.32,0.6,2.423022393956507,5.0
+76,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,4.0,1.4,0.16,0.3,2.68655251313997,4.0
+76,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,3.0,1.7,0.24,0.44999999999999996,3.295582248014572,3.0
+76,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,4.0,1.7,0.16,0.3,2.9942568134720755,4.0
+76,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.813660418258762,4.0
+76,Eggetarian,43,Cheesy Garlic Broccoli Nuggets Recipe,Eggetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.896812397958354,1.9
+76,Eggetarian,451,Chocolate Coffee Sticky Cake Recipe,Eggetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.7605679678042634,4.0
+76,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.3875103482690189,0.39
+77,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.9275809574665594,0.93
+77,Eggetarian,221,Rich Dark Chocolate Mousse Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,3.0,1.7,0.32,0.6,3.423158314863641,3.0
+77,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Liked->Saved,Saved,20,1,0,100,4.0,0.9,1.5,2.5,5.861779731533926,4.0
+77,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,7,1,1,35,5.0,1.7,0.56,1.05,4.296685878613209,5.0
+77,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Liked->Saved,Saved,3,1,0,15,5.0,0.9,0.24,0.44999999999999996,2.3352987413567137,5.0
+77,Eggetarian,403,Mexican Style Omelette With Avocado Dressing Recipe,Eggetarian,Viewed->Liked,Liked,6,1,0,30,,0.7,0.48,0.8999999999999999,2.7897602956579437,2.79
+77,Eggetarian,439,Strawberry Chocolate Loaf Cake Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,,1.7,0.24,0.44999999999999996,3.33680234234434,3.34
+77,Eggetarian,46,Iranian Baida Curry Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,4,1,1,20,,1.4,0.32,0.6,3.248825962599575,3.25
+77,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed->Liked,Liked,2,1,0,10,3.0,0.7,0.16,0.3,2.341905160205889,3.0
+77,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed,Viewed,6,0,0,30,,0.0,0.48,0.8999999999999999,1.8243201572103827,1.82
+78,Vegetarian,139,Fruit Pachadi Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,6,1,1,30,,1.7,0.48,0.8999999999999999,3.9778145316329137,3.98
+78,Vegetarian,339,Spiced Whole Wheat Carrot Cake Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.6294814411906273,2.63
+78,Vegetarian,495,Mushroom Caldine Recipe | Vegetarian Goan Mushroom Curry,Vegetarian,Viewed->Liked->Cooked,Cooked,9,1,1,45,3.0,1.4,0.72,1.3499999999999999,4.660625821052877,3.0
+78,Vegetarian,485,Crispy Palak Pakora Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,7,1,1,35,3.0,1.4,0.56,1.05,3.935151416552087,3.0
+78,Vegetarian,348,Broken Wheat Upma Or Dalia Khichdi Recipe for Babies & Toddlers,Vegetarian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.858728590147195,1.86
+78,Vegetarian,25,Tindora Sambharo Recipe - Instant Tendli Pickle,Vegetarian,Viewed->Cooked,Cooked,6,1,1,30,4.0,1.2,0.48,0.8999999999999999,3.094739469923014,4.0
+78,Vegetarian,479,Indian Festive Sweet Rice And Jamun Bhog Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,7,1,1,35,5.0,1.4,0.56,1.05,3.5739324234989183,5.0
+78,Vegetarian,156,Safed Achari Baingan Recipe - White Aubergine in pickled spices,Vegetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.544091894697145,4.0
+78,Vegetarian,375,Carrot Pulao Recipe - Carrot Rice (Recipe),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,3.0,1.7,0.16,0.3,3.048557236624926,3.0
+78,Vegetarian,446,Kerala Style Arabic Vegetable Recipe - Kerala Style Arbi Curry,Vegetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.2096739209646707,1.21
+79,Vegetarian,307,Kerala Style Tapioca with Coconut Curd Chutney Recipe,Vegetarian,Viewed->Cooked,Cooked,5,1,1,25,,1.2,0.4,0.75,2.798742243850753,2.8
+79,Vegetarian,427,High Protein Spinach Basil & Cheese Omelette Recipe,Vegetarian,Viewed->Liked,Liked,12,1,0,60,3.0,0.7,0.96,1.7999999999999998,3.9510942345523787,3.0
+79,Vegetarian,402,Malpua Recipe with Rabri (A Spiced Indian Pancake with Milk Pudding),Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.14545351377059929,0.15
+79,Vegetarian,153,Raw Mango Murabba Recipe - Cinnamon Spiced Mango Jam,Vegetarian,Viewed->Liked,Liked,2,1,0,10,4.0,0.7,0.16,0.3,1.598672748477536,4.0
+79,Vegetarian,446,Kerala Style Arabic Vegetable Recipe - Kerala Style Arbi Curry,Vegetarian,Viewed->Cooked,Cooked,5,1,1,25,4.0,1.2,0.4,0.75,2.9996754379434076,4.0
+79,Vegetarian,242,Gawar Phali Masala Sabzi Recipe - Cluster Beans Gravy Sabzi,Vegetarian,Viewed->Saved->Cooked,Cooked,19,1,1,95,4.0,1.4,1.5,2.5,6.336544732981312,4.0
+79,Vegetarian,172,Rajasthani Goonde Vegetable Recipe (Bird Lime Stir Fry),Vegetarian,Viewed->Cooked,Cooked,1,1,1,5,4.0,1.2,0.08,0.15,2.090188451197783,4.0
+79,Vegetarian,479,Indian Festive Sweet Rice And Jamun Bhog Recipe,Vegetarian,Viewed->Liked,Liked,7,1,0,35,4.0,0.7,0.56,1.05,3.1264839097847146,4.0
+79,Vegetarian,69,Mukhadi Halwa Recipe (Semolina & All Purpose Flour Halwa),Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,3.0,0.9,0.16,0.3,2.257509793457527,3.0
+79,Vegetarian,457,"Date, Nuts And Quinoa Energy Bite Recipe",Vegetarian,Viewed->Liked,Liked,9,1,0,45,,0.7,0.72,1.3499999999999999,3.556304438983232,3.56
+80,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.4982950942040634,2.5
+80,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,14,1,1,70,3.0,1.4,1.12,2.1,5.2792594749621875,3.0
+80,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,,1.7,0.4,0.75,3.707244500144112,3.71
+80,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Saved,Saved,5,1,0,25,,0.6,0.4,0.75,2.551601691771511,2.55
+80,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.3272128829506173,1.33
+80,Eggetarian,451,Chocolate Coffee Sticky Cake Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,2.658874207392271,5.0
+80,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.6613874481764088,0.66
+80,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.8694244143948616,0.87
+80,Eggetarian,257,Egg and Bread Fried Rice Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.537726949543565,4.0
+80,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,4,1,1,20,4.0,1.4,0.32,0.6,2.733651584749663,4.0
+83,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Liked->Saved,Saved,1,1,0,5,5.0,0.9,0.08,0.15,1.9644529500759067,5.0
+83,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.6143794956543258,0.61
+83,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.337958856918193,3.0
+83,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.675507849027171,1.68
+83,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,14,1,0,70,,0.9,1.12,2.1,5.147312284025263,5.0
+83,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed,Viewed,6,0,0,30,,0.0,0.48,0.8999999999999999,1.709406209277695,1.71
+83,Non Vegeterian,517,Parsi Salli Boti Recipe,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,3.0,1.7,0.24,0.44999999999999996,2.863949082098527,3.0
+83,Non Vegeterian,447,Duration Special Nihari Recipe,Non Vegeterian,Viewed->Cooked,Cooked,9,1,1,45,5.0,1.2,0.72,1.3499999999999999,3.6754206413082917,5.0
+83,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Cooked,Cooked,5,1,1,25,,1.2,0.4,0.75,3.3907910979104363,3.39
+83,Non Vegeterian,90,PF Chang's Style Crispy Chicken Lettuce Wraps Recipe,Non Vegeterian,Viewed->Saved,Saved,9,1,0,45,4.0,0.6,0.72,1.3499999999999999,3.346400701779267,4.0
+84,Vegetarian,89,Bengaluru Style Brinjal Gravy Recipe - For Biryani,Vegetarian,Viewed,Viewed,8,0,0,40,,0.0,0.64,1.2,2.178097868572894,2.18
+84,Vegetarian,49,Tomato Relish Recipe,Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,5.0,1.2,0.16,0.3,2.4092960329158664,5.0
+84,Vegetarian,203,Badam Halwa Recipe,Vegetarian,Viewed->Liked->Saved,Saved,1,1,0,5,5.0,0.9,0.08,0.15,1.870295290831408,5.0
+84,Vegetarian,52,Mango Donut Cake Recipe With Chocolate Glaze,Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,3.0,0.9,0.16,0.3,2.0505371342342342,3.0
+84,Vegetarian,479,Indian Festive Sweet Rice And Jamun Bhog Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,4.0,1.7,0.24,0.44999999999999996,3.142619623038728,4.0
+84,Vegetarian,490,Odisha Style Aloo Husband Recipe -Aloo Mash Sabeeji,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.5548969164211678,0.55
+84,Vegetarian,421,Odiya Style Chana Dal With Potato & Pumpkin Curry Recipe,Vegetarian,Viewed->Cooked,Cooked,7,1,1,35,4.0,1.2,0.56,1.05,3.7482360004897433,4.0
+84,Vegetarian,410,Indo Chinese Hot and Sour Spinach Soup Recipe,Vegetarian,Viewed,Viewed,11,0,0,55,,0.0,0.88,1.65,2.599485460064365,2.6
+84,Vegetarian,476,Vegetarian Hakka Noodles Recipe - Vegetarian Hakka Noodles Recipe,Vegetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.6135331505770254,1.61
+84,Vegetarian,359,Mishti Doi Recipe - Traditional Bengali Sweet Yogurt,Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.5665748653420022,0.57
+87,Non Vegeterian,167,Tomato Chicken Roast Recipe Flavoured With Kasuri Methi,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,4.0,0.7,0.08,0.15,1.6488797975553948,4.0
+87,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,5,1,1,25,5.0,1.4,0.4,0.75,3.469832415426021,5.0
+87,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.3153377010921443,3.0
+87,Non Vegeterian,449,Cantonese Chicken With Mushrooms Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,6,1,1,30,,1.4,0.48,0.8999999999999999,3.660014617493477,3.66
+87,Non Vegeterian,323,Prawn Ghee Roast Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,6,1,1,30,3.0,1.4,0.48,0.8999999999999999,3.548894340553262,3.0
+87,Non Vegeterian,486,Malabar Mutton Biryani Recipe,Non Vegeterian,Viewed->Liked,Liked,11,1,0,55,4.0,0.7,0.88,1.65,4.410783617900294,4.0
+87,Non Vegeterian,40,Spicy Seafood Stew Casserole With Tomatoes And Lime Recipe,Non Vegeterian,Viewed->Cooked,Cooked,6,1,1,30,4.0,1.2,0.48,0.8999999999999999,3.5080363939145993,4.0
+87,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Liked->Saved,Saved,3,1,0,15,,0.9,0.24,0.44999999999999996,2.4989407857108348,2.5
+87,Non Vegeterian,4,Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken,Non Vegeterian,Viewed->Liked->Cooked,Cooked,2,1,1,10,4.0,1.4,0.16,0.3,2.7565420777269356,4.0
+87,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.982731377015642,5.0
+89,Vegetarian,223,Qahwa | Arabic Coffee Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,5.0,1.7,0.32,0.6,3.4232289333278065,5.0
+89,Vegetarian,363,Lauki Badi Ki Sabzi (Recipe In Hindi),Vegetarian,Viewed->Saved->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.708646175185006,3.0
+89,Vegetarian,380,Palak (Spinach) Puri Recipe,Vegetarian,Viewed->Saved,Saved,1,1,0,5,4.0,0.6,0.08,0.15,1.7732157459008522,4.0
+89,Vegetarian,7,Udupi Style Ash Gourd Coconut Curry Recipe,Vegetarian,Viewed->Cooked,Cooked,2,1,1,10,3.0,1.2,0.16,0.3,2.5230421440251387,3.0
+89,Vegetarian,202,Sweet & Spicy Vegetable Hong Kong Style Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,2.708545523344399,5.0
+89,Vegetarian,193,Chettinad Pakora Curry Recipe,Vegetarian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,2.0624405344157104,3.0
+89,Vegetarian,139,Fruit Pachadi Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,11,1,1,55,,1.4,0.88,1.65,4.932885073767004,4.93
+89,Vegetarian,209,Pui Shaker Chorchori Recipe - Mixed Vegetable Curry With Malabar Spinach,Vegetarian,Viewed->Cooked,Cooked,5,1,1,25,4.0,1.2,0.4,0.75,2.7586600960870618,4.0
+89,Vegetarian,76,Kashmiri Style Modur Pulao With Pomegranate Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,4.0,1.7,0.24,0.44999999999999996,2.865580520700262,4.0
+89,Vegetarian,144,Aloo Bhey Ki Sabzi Recipe (Potato Lotus Stem Curry),Vegetarian,Viewed,Viewed,2,0,0,10,,0.0,0.16,0.3,0.9776833878861527,0.98
+92,Non Vegeterian,460,Dum Pukht Gosht Recipe - Slow Cooked Mutton Curry,Non Vegeterian,Viewed->Liked->Saved->Cooked,Cooked,7,1,1,35,4.0,1.7,0.56,1.05,4.331995931989085,4.0
+92,Non Vegeterian,64,Murgh Malaiwala Recipe - Chicken In Rich Creamy Gravy,Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,5.0,0.7,0.16,0.3,1.7562970979649453,5.0
+92,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,3.0,1.4,0.16,0.3,2.7154232270305583,3.0
+92,Non Vegeterian,96,Chicken Shawarma Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,2,1,1,10,5.0,1.4,0.16,0.3,2.4457261743763907,5.0
+92,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Cooked,Cooked,5,1,1,25,3.0,1.2,0.4,0.75,3.3345990544548014,3.0
+92,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Saved,Saved,2,1,0,10,3.0,0.6,0.16,0.3,1.870695794865875,3.0
+92,Non Vegeterian,278,Keeme Ja Bhalla Recipe - Sindhi Mutton Keema Balls In Gravy,Non Vegeterian,Viewed->Liked,Liked,2,1,0,10,,0.7,0.16,0.3,1.8397599792780048,1.84
+92,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked->Saved,Saved,3,1,0,15,,0.9,0.24,0.44999999999999996,2.5689436769533924,2.57
+92,Non Vegeterian,408,Chicken With Mushroom Sauce Recipe,Non Vegeterian,Viewed->Saved,Saved,13,1,0,65,5.0,0.6,1.04,1.95,4.498465450410489,5.0
+92,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Saved,Saved,4,1,0,20,4.0,0.6,0.32,0.6,2.1311255471105346,4.0
+93,Non Vegeterian,387,Taiwanese Pineapple Cake Recipe - Shortcrust Pastry Cake,Non Vegeterian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.025227772808502,2.03
+93,Non Vegeterian,409,Goan Chicken Vindaloo Recipe,Non Vegeterian,Viewed->Cooked,Cooked,6,1,1,30,,1.2,0.48,0.8999999999999999,3.2239135212601555,3.22
+93,Non Vegeterian,469,Kerala Style Chicken Chatti Pathiri Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,8,1,1,40,4.0,1.4,0.64,1.2,4.4283866571058645,4.0
+93,Non Vegeterian,135,"Chicken Sausages, Baked Beans and Stir Fried Broccoli Recipe",Non Vegeterian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.972017649959693,5.0
+93,Non Vegeterian,137,Turkish Chicken Gozleme Recipe-Stuffed Spinach Chicken Bread,Non Vegeterian,Viewed->Liked->Cooked,Cooked,12,1,1,60,3.0,1.4,0.96,1.7999999999999998,4.670645161630813,3.0
+93,Non Vegeterian,335,Chicken and Mushroom Pot Pie Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.3402921856328462,4.0
+93,Non Vegeterian,228,Asian Style Honey Soy Sticky Chicken Recipe,Non Vegeterian,Viewed->Liked->Cooked,Cooked,15,1,1,75,4.0,1.4,1.2,2.25,5.279917456471197,4.0
+93,Non Vegeterian,330,Coriander Prawn Cakes Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,7,1,1,35,4.0,1.4,0.56,1.05,3.830646189242458,4.0
+93,Non Vegeterian,276,Kashmiri Style Chicken Pulao Recipe,Non Vegeterian,Viewed->Saved->Cooked,Cooked,15,1,1,75,3.0,1.4,1.2,2.25,5.639558741259996,3.0
+93,Non Vegeterian,503,Savory Flax Seed Multigrain Crackers Recipe,Non Vegeterian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.5745209763038939,1.57
+94,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Liked,Liked,2,1,0,10,,0.7,0.16,0.3,1.4913796776939532,1.49
+94,Eggetarian,404,Bavarian Mushroom Sauce Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,5.0,1.7,0.4,0.75,3.6754494629744556,5.0
+94,Eggetarian,255,Egg Sholay Kebab Recipe,Eggetarian,Viewed,Viewed,3,0,0,15,,0.0,0.24,0.44999999999999996,0.8026828723377556,0.8
+94,Eggetarian,403,Mexican Style Omelette With Avocado Dressing Recipe,Eggetarian,Viewed,Viewed,5,0,0,25,,0.0,0.4,0.75,1.3577640371971953,1.36
+94,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Liked->Saved,Saved,9,1,0,45,4.0,0.9,0.72,1.3499999999999999,3.793303086914151,4.0
+94,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,4.0,1.4,0.08,0.15,2.3264985578821102,4.0
+94,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,6,1,1,30,3.0,1.4,0.48,0.8999999999999999,3.704681071708323,3.0
+94,Eggetarian,46,Iranian Baida Curry Recipe,Eggetarian,Viewed->Cooked,Cooked,1,1,1,5,3.0,1.2,0.08,0.15,2.2265587726274103,3.0
+94,Eggetarian,342,Egg White Spinach Omelette Recipe With Garlic & Oregano,Eggetarian,Viewed->Cooked,Cooked,2,1,1,10,4.0,1.2,0.16,0.3,2.57381672401965,4.0
+94,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed,Viewed,4,0,0,20,,0.0,0.32,0.6,1.195717016900171,1.2
+95,Vegetarian,51,Radish Soup Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.3672981695679742,3.0
+95,Vegetarian,212,Udupi Style Red Parboiled Rice Sevai Recipe (Red Rice Vermicelli),Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.4576702760141323,0.46
+95,Vegetarian,319,Baked Muesli Tart with Strawberry Yogurt and Chia Seeds Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,,1.4,0.08,0.15,2.0871169080706196,2.09
+95,Vegetarian,483,Bengali Style Kucho Nimki Recipe (Diamond Shaped Salty Snacks),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,10,1,1,50,,1.7,0.8,1.5,4.76509827718517,4.77
+95,Vegetarian,260,Andhra Style Stuffed Boils Recipe (Crispy Tapioke Snack),Vegetarian,Viewed,Viewed,1,0,0,5,,0.0,0.08,0.15,0.6759462041504427,0.68
+95,Vegetarian,314,Kerala Style Appam Recipe - Kerala Style Appam Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,4.0,1.7,0.16,0.3,2.6597485093526148,4.0
+95,Vegetarian,44,Bengali radish potato vegetable recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,4,1,1,20,3.0,1.7,0.32,0.6,3.561612719893555,3.0
+95,Vegetarian,249,Orange Peppermint Green Tea Punch Recipe,Vegetarian,Viewed->Liked,Liked,6,1,0,30,5.0,0.7,0.48,0.8999999999999999,3.0812540485771374,5.0
+95,Vegetarian,2,Spicy Tomato Rice (Recipe),Vegetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.9224392653702087,1.92
+95,Vegetarian,462,Konkani Style Avnas Ambe Sasam Recipe-Fruit Salad with Coconut,Vegetarian,Viewed->Saved,Saved,2,1,0,10,4.0,0.6,0.16,0.3,1.7471554364969073,4.0
+96,Eggetarian,424,Whole Wheat Eggless Cinnamon & Raisin Swirl Bread Recipe,Eggetarian,Viewed,Viewed,20,0,0,100,,0.0,1.5,2.5,4.558446045168983,4.56
+96,Eggetarian,434,Carrot and Oats Whole Wheat Bread Recipe,Eggetarian,Viewed,Viewed,10,0,0,50,,0.0,0.8,1.5,2.560731571136343,2.56
+96,Eggetarian,73,Tamil Nadu Style Spicy Egg Fry Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,6,1,1,30,5.0,1.4,0.48,0.8999999999999999,3.432848395308788,5.0
+96,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed,Viewed,9,0,0,45,,0.0,0.72,1.3499999999999999,2.576092355618153,2.58
+96,Eggetarian,306,Quick Masala French Toast Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,4.0,1.7,0.4,0.75,3.553044191295106,4.0
+96,Eggetarian,509,Watalappan Recipe - Steamed Egg Pudding With Jaggery,Eggetarian,Viewed->Liked,Liked,1,1,0,5,,0.7,0.08,0.15,1.4591413589189055,1.46
+96,Eggetarian,264,Chocolate Tart Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,1,1,1,5,5.0,1.7,0.08,0.15,3.1070777611243825,5.0
+96,Eggetarian,210,Potato Pancakes Recipe,Eggetarian,Viewed->Saved,Saved,2,1,0,10,3.0,0.6,0.16,0.3,1.726556791774553,3.0
+96,Eggetarian,247,Savoury Bread Pudding Recipe,Eggetarian,Viewed->Cooked,Cooked,2,1,1,10,5.0,1.2,0.16,0.3,2.4231915133004063,5.0
+96,Eggetarian,358,Akoori with Green Peas Recipe (Parsi Style Scrambled Eggs with Green Peas),Eggetarian,Viewed->Saved->Cooked,Cooked,7,1,1,35,3.0,1.4,0.56,1.05,3.5431614436119188,3.0
+97,Vegetarian,436,Herbed Butter Garlic Quinoa Recipe,Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,3,1,1,15,3.0,1.7,0.24,0.44999999999999996,2.8759050010002127,3.0
+97,Vegetarian,123,Mustard Vegetable Curry Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.6551391971098752,5.0
+97,Vegetarian,179,Kaju Badam Ladoo Recipe,Vegetarian,Viewed->Liked,Liked,3,1,0,15,,0.7,0.24,0.44999999999999996,2.2378556590568683,2.24
+97,Vegetarian,507,Thandai Kulfi Recipe - Holi Recipe,Vegetarian,Viewed,Viewed,10,0,0,50,,0.0,0.8,1.5,2.542562330882029,2.54
+97,Vegetarian,262,Papaya Orange Pomegranate Salad Recipe With Roasted Peanuts,Vegetarian,Viewed->Saved->Cooked,Cooked,2,1,1,10,,1.4,0.16,0.3,2.804842801606828,2.8
+97,Vegetarian,325,Baked Roasted Vegetable Lasagna Recipe With Low Fat Cheese & Oat Sauce,Vegetarian,Viewed->Liked,Liked,6,1,0,30,,0.7,0.48,0.8999999999999999,3.001678713267588,3.0
+97,Vegetarian,116,Rajasthani Kachri Chutney Recipe - Rajasthani Kachri Ki Chutney Recipe,Vegetarian,Viewed->Saved,Saved,12,1,0,60,4.0,0.6,0.96,1.7999999999999998,4.0839750876867225,4.0
+97,Vegetarian,232,Matar Besan and Paneer Cheela Recipe - Matar Besan and Paneer Cheela Recipe,Vegetarian,Viewed->Liked,Liked,5,1,0,25,4.0,0.7,0.4,0.75,2.4648395978232616,4.0
+97,Vegetarian,226,Goan Style Sando Recipe (Steamed Rice Cakes Filled With Sweet Coconut),Vegetarian,Viewed->Liked->Saved,Saved,7,1,0,35,4.0,0.9,0.56,1.05,3.5537399860615926,4.0
+97,Vegetarian,406,Karpooravalli Chutney Recipe (Tamil Nadu Chutney With Big Thyme),Vegetarian,Viewed->Liked->Saved,Saved,2,1,0,10,5.0,0.9,0.16,0.3,1.9593956658655673,5.0
+98,Eggetarian,342,Egg White Spinach Omelette Recipe With Garlic & Oregano,Eggetarian,Viewed->Liked,Liked,5,1,0,25,5.0,0.7,0.4,0.75,2.891580792639412,5.0
+98,Eggetarian,231,Chinese Egg Fried Rice Recipe With Oats,Eggetarian,Viewed->Liked->Cooked,Cooked,4,1,1,20,4.0,1.4,0.32,0.6,3.2133547015357222,4.0
+98,Eggetarian,509,Watalappan Recipe - Steamed Egg Pudding With Jaggery,Eggetarian,Viewed->Liked->Cooked,Cooked,3,1,1,15,3.0,1.4,0.24,0.44999999999999996,2.8161956219098436,3.0
+98,Eggetarian,257,Egg and Bread Fried Rice Recipe,Eggetarian,Viewed->Cooked,Cooked,2,1,1,10,4.0,1.2,0.16,0.3,2.452836970312254,4.0
+98,Eggetarian,331,Delicious Skillet Plum Cake Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,9,1,1,45,4.0,1.4,0.72,1.3499999999999999,4.64091380841194,4.0
+98,Eggetarian,221,Rich Dark Chocolate Mousse Recipe,Eggetarian,Viewed->Saved->Cooked,Cooked,5,1,1,25,5.0,1.4,0.4,0.75,3.7141585481246215,5.0
+98,Eggetarian,425,Egg Pulao Recipe,Eggetarian,Viewed->Saved,Saved,10,1,0,50,5.0,0.6,0.8,1.5,3.5392450761120458,5.0
+98,Eggetarian,43,Cheesy Garlic Broccoli Nuggets Recipe,Eggetarian,Viewed->Liked->Saved,Saved,9,1,0,45,3.0,0.9,0.72,1.3499999999999999,3.6611518648102233,3.0
+98,Eggetarian,475,Vegetable Filled Souffle Recipe,Eggetarian,Viewed->Liked->Saved->Cooked,Cooked,2,1,1,10,3.0,1.7,0.16,0.3,2.806118466852434,3.0
+98,Eggetarian,403,Mexican Style Omelette With Avocado Dressing Recipe,Eggetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,5.0,1.4,0.08,0.15,2.4154487025097757,5.0
+100,Vegetarian,432,Szechuan Vegetarian Fried Rice,Vegetarian,Viewed->Liked->Cooked,Cooked,12,1,1,60,5.0,1.4,0.96,1.7999999999999998,5.269102041900934,5.0
+100,Vegetarian,389,Chettinad Vengaya Kosu Recipe (Spicy Curry from Chettinad Cuisine),Vegetarian,Viewed->Liked->Cooked,Cooked,1,1,1,5,3.0,1.4,0.08,0.15,2.429859344805162,3.0
+100,Vegetarian,395,Sooji Halwa Breakfast Bowl Recipe,Vegetarian,Viewed->Saved->Cooked,Cooked,11,1,1,55,5.0,1.4,0.88,1.65,4.724452845647983,5.0
+100,Vegetarian,381,Peas and Peel Vegetables (Peas & Peel Stir Fry Recipe),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,10,1,1,50,5.0,1.7,0.8,1.5,4.918527554651669,5.0
+100,Vegetarian,168,Nellikai Oorugai / Amla Sambhario Recipe (Instant Gooseberry Piccile Recipe),Vegetarian,Viewed->Liked->Saved->Cooked,Cooked,5,1,1,25,5.0,1.7,0.4,0.75,3.4138504872211595,5.0
+100,Vegetarian,22,Chinese Darsaan Recipe With Ice Cream,Vegetarian,Viewed,Viewed,19,0,0,95,,0.0,1.5,2.5,4.335725006781432,4.34
+100,Vegetarian,42,Chanar Dal Recipe - Bengali Steel Paneer & Potato Gravy,Vegetarian,Viewed,Viewed,9,0,0,45,,0.0,0.72,1.3499999999999999,2.2335212449579767,2.23
+100,Vegetarian,226,Goan Style Sando Recipe (Steamed Rice Cakes Filled With Sweet Coconut),Vegetarian,Viewed->Cooked,Cooked,3,1,1,15,5.0,1.2,0.24,0.44999999999999996,2.6421113151903217,5.0
+100,Vegetarian,63,Walnut and Flax Seed Trail Mix Recipe With Figs and Honey,Vegetarian,Viewed->Liked,Liked,13,1,0,65,,0.7,1.04,1.95,4.303844257615801,4.3
+100,Vegetarian,364,Guilt Free Coconut Barfi Recipe,Vegetarian,Viewed->Liked->Cooked,Cooked,5,1,1,25,,1.4,0.4,0.75,3.485663430302448,3.49

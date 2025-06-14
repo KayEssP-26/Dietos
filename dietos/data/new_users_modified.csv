@@ -1,0 +1,101 @@
+User_ID,Age,BMI,Disease,Allergies,Exercise_Level,User_Diet,preferred_food,Preferred_Cuisines,non_preferred_food
+1,56,30.9,diabetes,Lactose,High,Vegetarian,"ridge gourd,turnip,beetroot,oats",,"cheese,walnuts"
+2,61,26.6,,Gluten,Low,Eggetarian,"milk,oats,cauliflower,watermelon",,onion
+3,51,30.4,diabetes,Lactose,Low,Non Vegeterian,"chicken,apple",,"kidney beans,mango,paneer,rice"
+4,45,26.2,ulcerative colitis,Lactose,Low,Vegetarian,"tomato,radish,poha",Coastal Karnataka,"spinach,paneer,watermelon"
+5,54,23.7,,Lactose,Low,Non Vegeterian,"turnip,onion,watermelon",,"eggplant,kidney beans,mango"
+6,18,18.7,diabetes,Peanuts,Low,Eggetarian,mango,"Himachal,Sri Lankan","radish,eggs,poha,almonds"
+7,28,31.8,diabetes,Lactose,Medium,Non Vegeterian,"apple,salmon",Konkan,"eggplant,fish,bell pepper,onion"
+8,21,27.3,diabetes,Lactose,Medium,Eggetarian,"rice,apple","Goan Recipes,Sindhi",
+9,59,33.6,ulcerative colitis,Lactose,High,Eggetarian,"moong beans,turnip,carrot,apple",,almonds
+10,46,30.0,ulcerative colitis,Gluten,Low,Non Vegeterian,"tomato,turnip,lentils",,milk
+11,64,20.7,diabetes,Peanuts,High,Non Vegeterian,"cashews,eggplant,potato,beetroot",,"spinach,paneer,tomato"
+12,60,28.1,diabetes,,High,Non Vegeterian,,,"yogurt,bell pepper,beetroot,cucumber"
+13,39,26.9,diabetes,Gluten,Low,Non Vegeterian,"orange,watermelon,turnip","Cantonese,Tamil Nadu",
+14,23,32.4,ulcerative colitis,Lactose,Medium,Non Vegeterian,"poha,salmon",,"paneer,cauliflower"
+15,28,28.4,ulcerative colitis,Gluten,Medium,Vegetarian,"broccoli,dates",,"watermelon,beetroot"
+16,31,20.0,diabetes,Gluten,Low,Eggetarian,,,papaya
+17,22,26.2,,Peanuts,Medium,Eggetarian,"walnuts,lentils",Gujarati Recipes,potato
+18,58,33.8,diabetes,Peanuts,Low,Eggetarian,"oats,orange,ridge gourd,spinach",,kidney beans
+19,35,24.7,ulcerative colitis,Peanuts,Medium,Non Vegeterian,"onion,spinach",Tamil Nadu,
+20,58,22.1,diabetes,Peanuts,High,Eggetarian,milk,"Italian Recipes,Malabar","cucumber,broccoli"
+21,51,30.8,diabetes,Gluten,High,Eggetarian,"watermelon,bell pepper,lentils,rice",,"beetroot,turnip,mango,potato"
+22,34,23.8,diabetes,Peanuts,Low,Non Vegeterian,"mutton,onion,banana,broccoli","Side Dish,Italian Recipes","oats,chicken,cashews"
+23,31,27.6,,Peanuts,Low,Non Vegeterian,"cucumber,broccoli,almonds","Sri Lankan,Assamese",rice
+24,21,34.0,,Lactose,High,Non Vegeterian,"papaya,lentils,chicken",,"banana,potato,milk"
+25,30,28.0,diabetes,,Low,Non Vegeterian,,British,"fish,watermelon,cabbage,chickpeas"
+26,58,18.5,ulcerative colitis,Gluten,Medium,Non Vegeterian,"mutton,turnip,yogurt,poha",Awadhi,"grapes,oats"
+27,56,27.2,diabetes,Peanuts,Low,Non Vegeterian,oats,,"almonds,watermelon,yogurt,eggs"
+28,49,34.5,,,High,Non Vegeterian,potato,,
+29,24,18.8,ulcerative colitis,Gluten,Medium,Vegetarian,"beetroot,paneer,poha,bell pepper",,"mutton,tindora,walnuts,eggplant"
+30,18,21.5,,,Low,Non Vegeterian,carrot,,"oats,fish"
+31,30,24.1,,,Medium,Non Vegeterian,,"British,Italian Recipes",papaya
+32,36,32.9,,,Low,Vegetarian,dates,Malabar,
+33,29,28.8,diabetes,Gluten,High,Vegetarian,,,"paneer,cucumber"
+34,21,26.7,,,Low,Eggetarian,,,"almonds,spinach,orange,green beans"
+35,57,20.2,,,High,Non Vegeterian,,,paneer
+36,27,24.2,diabetes,Lactose,Medium,Non Vegeterian,"radish,tomato,orange",Bengali Recipes,
+37,46,29.5,,,High,Vegetarian,"eggplant,broccoli,watermelon,almonds",Bengali Recipes,"oats,papaya,grapes,lentils"
+38,31,31.0,ulcerative colitis,Gluten,Low,Non Vegeterian,"papaya,eggplant,spinach,almonds","Coastal Karnataka,Indo Chinese","kidney beans,ridge gourd,tindora"
+39,27,20.7,diabetes,Lactose,Medium,Non Vegeterian,"almonds,poha,onion,dates","Mexican,Chettinad","orange,spinach"
+40,51,22.2,diabetes,Gluten,High,Non Vegeterian,"lentils,cabbage","Tamil Nadu,Cantonese",
+41,44,18.9,diabetes,Gluten,Medium,Vegetarian,tomato,"British,Gujarati Recipes","yogurt,cashews,fish,carrot"
+42,47,27.9,,Gluten,Medium,Vegetarian,"paneer,walnuts,lentils","Punjabi,Sindhi","kidney beans,milk,spinach,fish"
+43,56,22.6,,,Low,Eggetarian,"cashews,broccoli","Asian,Parsi Recipes","cabbage,bottle gourd,poha,chickpeas"
+44,59,33.5,diabetes,Peanuts,Low,Vegetarian,"tomato,cabbage,radish,moong beans","Cantonese,Middle Eastern","milk,watermelon,cucumber,almonds"
+45,46,28.9,,,Medium,Vegetarian,"banana,bottle gourd","Italian Recipes,Kerala Recipes","prawns,orange,potato"
+46,44,30.1,ulcerative colitis,Peanuts,Medium,Eggetarian,"carrot,cauliflower,milk,lentils","Tamil Nadu,Greek",
+47,44,26.4,ulcerative colitis,Peanuts,Medium,Vegetarian,"broccoli,kidney beans","Italian Recipes,Malabar",eggs
+48,47,19.6,,Peanuts,High,Non Vegeterian,oats,Hyderabadi,"chicken,carrot,onion,mango"
+49,45,20.7,ulcerative colitis,Gluten,High,Vegetarian,"carrot,almonds,bell pepper,spinach",,"apple,chicken,moong beans"
+50,30,32.1,,,High,Vegetarian,,,"bell pepper,papaya,carrot,spinach"
+51,47,21.9,diabetes,Peanuts,Medium,Non Vegeterian,,"Italian Recipes,Asian",onion
+52,29,27.6,ulcerative colitis,Gluten,Low,Eggetarian,"tomato,pumpkin,paneer",,"green beans,bottle gourd"
+53,43,22.0,,Peanuts,High,Non Vegeterian,"almonds,paneer,chicken",Parsi Recipes,ridge gourd
+54,52,21.8,,Gluten,High,Non Vegeterian,green beans,Coorg,prawns
+55,24,20.1,ulcerative colitis,Lactose,High,Vegetarian,"lentils,pumpkin,onion",Mughlai,
+56,35,24.2,ulcerative colitis,,Medium,Vegetarian,"mango,walnuts,green beans,rice",,"eggplant,apple"
+57,57,19.7,diabetes,Gluten,Low,Eggetarian,,"Fusion,Awadhi","grapes,green beans,cucumber,mango"
+58,63,32.6,diabetes,Peanuts,High,Non Vegeterian,,"Arab,Side Dish","walnuts,rice,poha,bell pepper"
+59,56,31.7,,Lactose,Low,Non Vegeterian,,"Continental,Hyderabadi",
+60,19,24.0,ulcerative colitis,,Medium,Eggetarian,"cabbage,pumpkin,almonds",,"carrot,oats"
+61,58,26.6,diabetes,Lactose,Low,Vegetarian,almonds,,"eggplant,broccoli"
+62,25,24.0,,,High,Eggetarian,,,"walnuts,onion"
+63,64,27.7,diabetes,Gluten,Low,Eggetarian,"tomato,radish,tindora","Indian,Mexican","salmon,paneer,milk"
+64,65,30.4,ulcerative colitis,Lactose,High,Eggetarian,"pumpkin,papaya","Maharashtrian Recipes,Sri Lankan",tomato
+65,56,33.9,ulcerative colitis,Gluten,Low,Vegetarian,"yogurt,papaya,grapes","Asian,Assamese","tindora,tomato,spinach"
+66,32,30.7,ulcerative colitis,Gluten,Low,Vegetarian,"almonds,cashews","Malabar,Chettinad","poha,carrot,eggs,potato"
+67,48,25.7,,Lactose,Medium,Non Vegeterian,"spinach,bottle gourd,mutton,cashews","Sichuan,North Karnataka","grapes,dates,ridge gourd,cheese"
+68,62,25.3,ulcerative colitis,Peanuts,High,Eggetarian,"cabbage,ridge gourd,chickpeas,radish",,"pumpkin,apple,cheese,carrot"
+69,39,31.3,,,Low,Eggetarian,milk,Punjabi,"eggs,yogurt,salmon"
+70,61,28.6,diabetes,Lactose,High,Vegetarian,"carrot,bell pepper,poha","Andhra,Side Dish","turnip,spinach,almonds,tomato"
+71,50,25.6,,Lactose,Low,Vegetarian,"dates,potato",,"mutton,oats,orange,tomato"
+72,51,31.3,,Peanuts,Low,Non Vegeterian,"yogurt,ridge gourd","Punjabi,Konkan",
+73,42,31.2,,Peanuts,Low,Vegetarian,rice,"Indo Chinese,Middle Eastern","tindora,yogurt"
+74,60,22.7,,Gluten,Medium,Eggetarian,broccoli,"Middle Eastern,Tamil Nadu","mutton,bell pepper"
+75,64,24.1,diabetes,Peanuts,Medium,Eggetarian,tomato,"Fusion,Coastal Karnataka","green beans,grapes,cashews,potato"
+76,28,27.9,diabetes,Gluten,Low,Eggetarian,,"Indian,Continental",
+77,43,27.2,ulcerative colitis,Lactose,Low,Eggetarian,"bell pepper,oats,walnuts,chickpeas",,poha
+78,44,32.0,,,Low,Vegetarian,"poha,kidney beans",North East India Recipes,"tomato,ridge gourd,rice,grapes"
+79,43,25.5,ulcerative colitis,Peanuts,Medium,Vegetarian,"spinach,cabbage,moong beans,tomato",Cantonese,"turnip,carrot,green beans"
+80,60,22.6,diabetes,Gluten,Medium,Eggetarian,tindora,"Thai,Mediterranean","pumpkin,fish"
+81,50,28.2,diabetes,Lactose,Low,Non Vegeterian,,,"paneer,mutton"
+82,46,20.4,,Lactose,Low,Eggetarian,"tindora,eggplant,green beans,broccoli","Vietnamese,Himachal","spinach,bottle gourd,cabbage"
+83,39,29.4,diabetes,Gluten,Medium,Non Vegeterian,,French,
+84,27,20.2,diabetes,Peanuts,Medium,Vegetarian,"cauliflower,rice,paneer","Fusion,Malabar",
+85,62,32.7,diabetes,Lactose,High,Vegetarian,"oats,papaya","Tamil Nadu,Mediterranean",fish
+86,59,23.6,ulcerative colitis,Lactose,Low,Non Vegeterian,"carrot,broccoli","Hyderabadi,North Indian Recipes","mango,cabbage,oats,beetroot"
+87,57,32.1,ulcerative colitis,Gluten,Medium,Non Vegeterian,,Mughlai,
+88,56,34.8,diabetes,Peanuts,High,Vegetarian,,,bottle gourd
+89,18,31.9,diabetes,,Low,Vegetarian,mango,Goan Recipes,
+90,38,22.2,diabetes,,High,Vegetarian,"carrot,bottle gourd",,"yogurt,cauliflower,pumpkin,cheese"
+91,38,28.8,ulcerative colitis,Peanuts,Medium,Vegetarian,cucumber,,"oats,peanut"
+92,31,31.1,ulcerative colitis,Peanuts,High,Non Vegeterian,spinach,"French,Greek","watermelon,moong beans"
+93,65,22.1,ulcerative colitis,Lactose,High,Non Vegeterian,,"Indian,Side Dish",carrot
+94,37,25.0,diabetes,Lactose,Low,Eggetarian,"eggplant,ridge gourd,rice,chickpeas",,orange
+95,25,32.6,ulcerative colitis,,High,Vegetarian,potato,,"ridge gourd,kidney beans,oats"
+96,33,23.2,ulcerative colitis,,High,Eggetarian,"paneer,broccoli",,
+97,34,29.0,diabetes,,Low,Vegetarian,,,"kidney beans,poha"
+98,21,28.8,ulcerative colitis,Peanuts,Low,Eggetarian,"green beans,onion",,
+99,18,25.9,,Peanuts,Medium,Vegetarian,chickpeas,"Chinese,Malabar","eggs,rice,eggplant,tomato"
+100,20,27.6,ulcerative colitis,Gluten,Low,Vegetarian,"pumpkin,apple","Awadhi,Andhra","mutton,prawns,spinach"
